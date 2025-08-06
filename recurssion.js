@@ -1,3 +1,6 @@
+// recurssive function 
+// a function call itself.
+
 function recc(n){
     if(n==5){
         console.log("5");
